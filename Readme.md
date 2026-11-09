@@ -43,7 +43,7 @@ profile-card/
 ```
 
 ## Screenshots
-[!Preview](image.png)
+![Preview](image.png)
 
 ## How to Run the Project
 
